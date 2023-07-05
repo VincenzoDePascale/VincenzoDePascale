@@ -1,12 +1,3 @@
-# 💫 About Me:
-🔭 I'm currently looking for a job as a full stack developer<br>
-🌱 I became full stack developer with EPICODE<br>
-💬 Ask me about frontEnd and backEend
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-de-pascale-30542322a/) 
-
 # 💻 Tech Stack:
 
 ## Front-end Development:
@@ -43,7 +34,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VincenzoDePascale&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=VincenzoDePascale&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-de-pascale-30542322a/) 
