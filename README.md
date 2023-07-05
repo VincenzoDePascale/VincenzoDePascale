@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently looking for a job as a full stack developer<br>
 🌱 I became full stack developer with EPICODE<br>
-💬 Ask me about front end e back end
+💬 Ask me about frontEnd and backEend
 
 
 ## 🌐 Socials:
